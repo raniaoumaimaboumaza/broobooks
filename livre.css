@@ -1,0 +1,26 @@
+p {
+    text-align: left;
+    height: 20px;
+    padding: 5px;
+    font-family: Monaco;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin: 20px 10px 10px 40px;
+    
+}
+
+button{
+    margin-left: 200px;
+    margin-top: 40px;
+    font-size: 20px;
+    color: wheat;
+    background-color: rgb(93, 63, 24);
+    border-color: rgb(93, 63, 24);
+    width:20%;
+    height:40px;
+}
+img{
+    position: absolute;
+    top: 20px;
+    right: 200px;
+}
